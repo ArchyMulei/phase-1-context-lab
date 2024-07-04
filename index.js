@@ -41,6 +41,7 @@ function createEmployeeRecord(data) {
     return hoursWorked
   }
   
+  //Trying
   // Function to calculate the wages earned by an employee on a specific date.
   function wagesEarnedOnDate(date) {
     const hoursWorked = hoursWorkedOnDate.call(this, date)
